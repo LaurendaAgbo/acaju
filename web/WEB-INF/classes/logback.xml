@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration debug="false" scan="true" scanPeriod="10 minutes" >
+    <appender name="CUSTOMINFO" class="util.logs.InfoAppender">
+    </appender>
+    <logger name="factura.Info" level="INFO">
+        <appender-ref ref="CUSTOMINFO" />
+    </logger>
+    
+    <appender name="CUSTOMERROR" class="util.logs.ErrorAppender">
+    </appender>
+    <logger name="factura.Error" level="ERROR">
+        <appender-ref ref="CUSTOMERROR" />
+    </logger>
+</configuration>

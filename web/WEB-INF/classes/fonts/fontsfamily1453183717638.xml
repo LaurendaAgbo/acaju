@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fontFamilies>
+
+   <fontFamily name="Arial">
+       <normal><![CDATA[fonts/ARIAL.TTF]]></normal>
+       <bold><![CDATA[fonts/ARIALBD.TTF]]></bold>
+       <italic><![CDATA[fonts/ARIALI.TTF]]></italic>
+       <boldItalic><![CDATA[fonts/ARIALBI.TTF]]></boldItalic>
+       <pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+   </fontFamily>
+
+
+   <fontFamily name="Arial Black">
+       <normal><![CDATA[fonts/ARIBLK.TTF]]></normal>
+       <pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+   </fontFamily>
+
+
+   <fontFamily name="Arial Narrow">
+       <normal><![CDATA[fonts/ARIALN.TTF]]></normal>
+       <bold><![CDATA[fonts/ARIALNB.TTF]]></bold>
+       <italic><![CDATA[fonts/ARIALNI.TTF]]></italic>
+       <boldItalic><![CDATA[fonts/ARIALNBI.TTF]]></boldItalic>
+       <pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+   </fontFamily>
+
+
+   <fontFamily name="Century Gothic">
+       <normal><![CDATA[fonts/GOTHIC.TTF]]></normal>
+       <bold><![CDATA[fonts/GOTHICB.TTF]]></bold>
+       <italic><![CDATA[fonts/GOTHICI.TTF]]></italic>
+       <boldItalic><![CDATA[fonts/GOTHICBI.TTF]]></boldItalic>
+       <pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+   </fontFamily>
+
+
+   <fontFamily name="Edwardian Script ITC">
+       <normal><![CDATA[fonts/ITCEDSCR.TTF]]></normal>
+       <pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+   </fontFamily>
+
+
+   <fontFamily name="Garamond">
+       <normal><![CDATA[fonts/GARA.TTF]]></normal>
+       <bold><![CDATA[fonts/GARABD.TTF]]></bold>
+       <italic><![CDATA[fonts/GARAIT.TTF]]></italic>
+       <pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+   </fontFamily>
+
+
+   <fontFamily name="Segoe UI">
+       <normal><![CDATA[fonts/SEGOEUI.TTF]]></normal>
+       <bold><![CDATA[fonts/SEGOEUIB.TTF]]></bold>
+       <italic><![CDATA[fonts/SEGOEUII.TTF]]></italic>
+       <pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+   </fontFamily>
+
+
+</fontFamilies>
